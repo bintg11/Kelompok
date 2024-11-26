@@ -1,14 +1,14 @@
 /* Place your CSS styles in this file */
-body {background-color: royal blue;
-      border:5px black;
+body {background-color: #57AOD3;
+      border:5px #000000;
       border-radius:15px;
       }
 ul{list-style-type:none;
    
    font-weight: bold;
+  }
 
 
-}
 li{display:inline;}
 
 h1 {text-align: center;
